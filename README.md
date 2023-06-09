@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 # Malak BOUAKER
 ## Mes compétences
 - ![alt text](html-icon.png) HTML
+- ![alt text](figma-icon.png) Figma 
 - ![alt text](css-icon.png) CSS
+- ![alt text](bootstrap-icon.png) Bootstrap
 - ![alt text](angular-icon.png) Angular
 - ![alt text](js-icon.png) JavaScript
-- - ![alt text](figma-icon.png) Figma 
+- ![alt text](php-icon.png) PHP
+- ![alt text](symfony-icon.png) Symfony
+- ![alt text](mysql-icon.png) MySQL
+- ![alt text](wordpress-icon.png) Wordpress
 
 ## Mon Experience
 - Relation clientèle
