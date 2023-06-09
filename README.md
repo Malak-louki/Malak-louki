@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ![alt text](bootstrap-icon.png) Bootstrap
 - ![alt text](angular-icon.png) Angular
 - ![alt text](js-icon.png) JavaScript
-- ![alt text](php-icon.png) PHP
+- ![alt text](php-icone.png) PHP
 - ![alt text](symfony-icon.png) Symfony
 - ![alt text](mysql-icon.png) MySQL
 - ![alt text](wordpress-icon.png) Wordpress
