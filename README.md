@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Mon Experience
 - Relation clientèle
 - Coach et vendeuse independante 
-- 
+
 J’ai toujours été passionnée par le numérique, malheureusement la vie a fait que j’ai dû trouver un emploi. Après une rapide formation j’ai donc commencé une expérience en marketing sans pour autant oublier le domaine du numérique. J’ai profité des périodes de confinement pour faire le point sur mes envies professionnelles et m’auto-former au développement web.
 Le 08 Novembre 2022, j’ai intégré la formation « développeur web et web mobile » au sein de Human booster grâce aux compétences acquises pendant mon auto-formation. Je suis déterminée à tout mettre en œuvre pour pouvoir travailler dans le domaine qui me passionne.
 
