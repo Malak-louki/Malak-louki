@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ![alt text](wordpress-icon.png) Wordpress
 
 ## Formation 👩‍💻
-- 2025/2026 : Concepteur Développeur d'Application "Human Booster"
+- 2025/2026 : Conceptrice Développeuse d'Application "Human Booster"
 - 2022/2023 : Développement web et web mobile "Human Booster"
 - 2022 : Découverte de bases d'informatique "IFPA"
 - 2016/2017 : Baccalauriat math technique génie éléctrique en Algerie
